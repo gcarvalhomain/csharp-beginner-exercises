@@ -1,0 +1,14 @@
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Lista de nomes\bin\Debug\net10.0\Lista de nomes.exe
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Lista de nomes\bin\Debug\net10.0\Lista de nomes.deps.json
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Lista de nomes\bin\Debug\net10.0\Lista de nomes.runtimeconfig.json
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Lista de nomes\bin\Debug\net10.0\Lista de nomes.dll
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Lista de nomes\bin\Debug\net10.0\Lista de nomes.pdb
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Lista de nomes\obj\Debug\net10.0\Lista de nomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Lista de nomes\obj\Debug\net10.0\Lista de nomes.AssemblyInfoInputs.cache
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Lista de nomes\obj\Debug\net10.0\Lista de nomes.AssemblyInfo.cs
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Lista de nomes\obj\Debug\net10.0\Lista de nomes.csproj.CoreCompileInputs.cache
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Lista de nomes\obj\Debug\net10.0\Lista de nomes.dll
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Lista de nomes\obj\Debug\net10.0\refint\Lista de nomes.dll
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Lista de nomes\obj\Debug\net10.0\Lista de nomes.pdb
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Lista de nomes\obj\Debug\net10.0\Lista de nomes.genruntimeconfig.cache
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Lista de nomes\obj\Debug\net10.0\ref\Lista de nomes.dll

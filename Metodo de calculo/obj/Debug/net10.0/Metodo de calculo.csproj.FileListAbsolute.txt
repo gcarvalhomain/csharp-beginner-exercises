@@ -1,0 +1,14 @@
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Metodo de calculo\bin\Debug\net10.0\Metodo de calculo.exe
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Metodo de calculo\bin\Debug\net10.0\Metodo de calculo.deps.json
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Metodo de calculo\bin\Debug\net10.0\Metodo de calculo.runtimeconfig.json
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Metodo de calculo\bin\Debug\net10.0\Metodo de calculo.dll
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Metodo de calculo\bin\Debug\net10.0\Metodo de calculo.pdb
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Metodo de calculo\obj\Debug\net10.0\Metodo de calculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Metodo de calculo\obj\Debug\net10.0\Metodo de calculo.AssemblyInfoInputs.cache
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Metodo de calculo\obj\Debug\net10.0\Metodo de calculo.AssemblyInfo.cs
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Metodo de calculo\obj\Debug\net10.0\Metodo de calculo.csproj.CoreCompileInputs.cache
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Metodo de calculo\obj\Debug\net10.0\Metodo de calculo.dll
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Metodo de calculo\obj\Debug\net10.0\refint\Metodo de calculo.dll
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Metodo de calculo\obj\Debug\net10.0\Metodo de calculo.pdb
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Metodo de calculo\obj\Debug\net10.0\Metodo de calculo.genruntimeconfig.cache
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Metodo de calculo\obj\Debug\net10.0\ref\Metodo de calculo.dll

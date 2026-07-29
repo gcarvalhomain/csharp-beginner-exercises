@@ -1,0 +1,14 @@
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Par ou Impar\bin\Debug\net10.0\Par ou Impar.exe
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Par ou Impar\bin\Debug\net10.0\Par ou Impar.deps.json
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Par ou Impar\bin\Debug\net10.0\Par ou Impar.runtimeconfig.json
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Par ou Impar\bin\Debug\net10.0\Par ou Impar.dll
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Par ou Impar\bin\Debug\net10.0\Par ou Impar.pdb
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Par ou Impar\obj\Debug\net10.0\Par ou Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Par ou Impar\obj\Debug\net10.0\Par ou Impar.AssemblyInfoInputs.cache
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Par ou Impar\obj\Debug\net10.0\Par ou Impar.AssemblyInfo.cs
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Par ou Impar\obj\Debug\net10.0\Par ou Impar.csproj.CoreCompileInputs.cache
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Par ou Impar\obj\Debug\net10.0\Par ou Impar.dll
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Par ou Impar\obj\Debug\net10.0\refint\Par ou Impar.dll
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Par ou Impar\obj\Debug\net10.0\Par ou Impar.pdb
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Par ou Impar\obj\Debug\net10.0\Par ou Impar.genruntimeconfig.cache
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Par ou Impar\obj\Debug\net10.0\ref\Par ou Impar.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lista de nomes/1.0.0": {
+        "runtime": {
+          "Lista de nomes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lista de nomes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

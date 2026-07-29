@@ -1,0 +1,14 @@
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Maior ou Menor Idade\bin\Debug\net10.0\Maior ou Menor Idade.exe
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Maior ou Menor Idade\bin\Debug\net10.0\Maior ou Menor Idade.deps.json
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Maior ou Menor Idade\bin\Debug\net10.0\Maior ou Menor Idade.runtimeconfig.json
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Maior ou Menor Idade\bin\Debug\net10.0\Maior ou Menor Idade.dll
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Maior ou Menor Idade\bin\Debug\net10.0\Maior ou Menor Idade.pdb
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Maior ou Menor Idade\obj\Debug\net10.0\Maior ou Menor Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Maior ou Menor Idade\obj\Debug\net10.0\Maior ou Menor Idade.AssemblyInfoInputs.cache
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Maior ou Menor Idade\obj\Debug\net10.0\Maior ou Menor Idade.AssemblyInfo.cs
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Maior ou Menor Idade\obj\Debug\net10.0\Maior ou Menor Idade.csproj.CoreCompileInputs.cache
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Maior ou Menor Idade\obj\Debug\net10.0\Maior ou Menor Idade.dll
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Maior ou Menor Idade\obj\Debug\net10.0\refint\Maior ou Menor Idade.dll
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Maior ou Menor Idade\obj\Debug\net10.0\Maior ou Menor Idade.pdb
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Maior ou Menor Idade\obj\Debug\net10.0\Maior ou Menor Idade.genruntimeconfig.cache
+C:\Users\Leno Carvalho\RiderProjects\ExerciciosSintaxe\Maior ou Menor Idade\obj\Debug\net10.0\ref\Maior ou Menor Idade.dll
