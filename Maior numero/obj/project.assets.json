@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Maior numero\\Maior numero.csproj",
+      "projectUniqueName": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Maior numero\\Maior numero.csproj",
       "projectName": "Maior numero",
-      "projectPath": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Maior numero\\Maior numero.csproj",
+      "projectPath": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Maior numero\\Maior numero.csproj",
       "packagesPath": "C:\\Users\\Leno Carvalho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Maior numero\\obj\\",
+      "outputPath": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Maior numero\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leno Carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config"

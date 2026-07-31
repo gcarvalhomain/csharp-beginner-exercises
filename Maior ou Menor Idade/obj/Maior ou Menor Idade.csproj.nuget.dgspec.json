@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Maior ou Menor Idade\\Maior ou Menor Idade.csproj": {}
+    "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Maior ou Menor Idade\\Maior ou Menor Idade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Maior ou Menor Idade\\Maior ou Menor Idade.csproj": {
+    "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Maior ou Menor Idade\\Maior ou Menor Idade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Maior ou Menor Idade\\Maior ou Menor Idade.csproj",
+        "projectUniqueName": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Maior ou Menor Idade\\Maior ou Menor Idade.csproj",
         "projectName": "Maior ou Menor Idade",
-        "projectPath": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Maior ou Menor Idade\\Maior ou Menor Idade.csproj",
+        "projectPath": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Maior ou Menor Idade\\Maior ou Menor Idade.csproj",
         "packagesPath": "C:\\Users\\Leno Carvalho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Maior ou Menor Idade\\obj\\",
+        "outputPath": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Maior ou Menor Idade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leno Carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config"

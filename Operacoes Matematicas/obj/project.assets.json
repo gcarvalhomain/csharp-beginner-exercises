@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Operacoes Matematicas\\Operacoes Matematicas.csproj",
+      "projectUniqueName": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Operacoes Matematicas\\Operacoes Matematicas.csproj",
       "projectName": "Operacoes Matematicas",
-      "projectPath": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Operacoes Matematicas\\Operacoes Matematicas.csproj",
+      "projectPath": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Operacoes Matematicas\\Operacoes Matematicas.csproj",
       "packagesPath": "C:\\Users\\Leno Carvalho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Operacoes Matematicas\\obj\\",
+      "outputPath": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Operacoes Matematicas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leno Carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config"

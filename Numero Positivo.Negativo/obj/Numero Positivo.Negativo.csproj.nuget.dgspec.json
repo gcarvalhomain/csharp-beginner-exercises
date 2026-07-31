@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Numero Positivo.Negativo\\Numero Positivo.Negativo.csproj": {}
+    "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Numero Positivo.Negativo\\Numero Positivo.Negativo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Numero Positivo.Negativo\\Numero Positivo.Negativo.csproj": {
+    "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Numero Positivo.Negativo\\Numero Positivo.Negativo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Numero Positivo.Negativo\\Numero Positivo.Negativo.csproj",
+        "projectUniqueName": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Numero Positivo.Negativo\\Numero Positivo.Negativo.csproj",
         "projectName": "Numero Positivo.Negativo",
-        "projectPath": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Numero Positivo.Negativo\\Numero Positivo.Negativo.csproj",
+        "projectPath": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Numero Positivo.Negativo\\Numero Positivo.Negativo.csproj",
         "packagesPath": "C:\\Users\\Leno Carvalho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Numero Positivo.Negativo\\obj\\",
+        "outputPath": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Numero Positivo.Negativo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leno Carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config"

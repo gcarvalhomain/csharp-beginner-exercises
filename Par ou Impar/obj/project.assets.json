@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Par ou Impar\\Par ou Impar.csproj",
+      "projectUniqueName": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Par ou Impar\\Par ou Impar.csproj",
       "projectName": "Par ou Impar",
-      "projectPath": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Par ou Impar\\Par ou Impar.csproj",
+      "projectPath": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Par ou Impar\\Par ou Impar.csproj",
       "packagesPath": "C:\\Users\\Leno Carvalho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Par ou Impar\\obj\\",
+      "outputPath": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Par ou Impar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leno Carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Lista de nomes\\Lista de nomes.csproj": {}
+    "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Lista de nomes\\Lista de nomes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Lista de nomes\\Lista de nomes.csproj": {
+    "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Lista de nomes\\Lista de nomes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Lista de nomes\\Lista de nomes.csproj",
+        "projectUniqueName": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Lista de nomes\\Lista de nomes.csproj",
         "projectName": "Lista de nomes",
-        "projectPath": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Lista de nomes\\Lista de nomes.csproj",
+        "projectPath": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Lista de nomes\\Lista de nomes.csproj",
         "packagesPath": "C:\\Users\\Leno Carvalho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Lista de nomes\\obj\\",
+        "outputPath": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Lista de nomes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leno Carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config"

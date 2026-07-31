@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Metodo de calculo\\Metodo de calculo.csproj": {}
+    "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Metodo de calculo\\Metodo de calculo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Metodo de calculo\\Metodo de calculo.csproj": {
+    "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Metodo de calculo\\Metodo de calculo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Metodo de calculo\\Metodo de calculo.csproj",
+        "projectUniqueName": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Metodo de calculo\\Metodo de calculo.csproj",
         "projectName": "Metodo de calculo",
-        "projectPath": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Metodo de calculo\\Metodo de calculo.csproj",
+        "projectPath": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Metodo de calculo\\Metodo de calculo.csproj",
         "packagesPath": "C:\\Users\\Leno Carvalho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leno Carvalho\\RiderProjects\\ExerciciosSintaxe\\Metodo de calculo\\obj\\",
+        "outputPath": "C:\\Users\\Leno Carvalho\\Documents\\ProjectsGab\\RiderProjects\\ExerciciosSintaxe\\Metodo de calculo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leno Carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config"
